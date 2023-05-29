@@ -1,5 +1,7 @@
 ## Introduction
 
+This is an assignment to course project two in the Reproducible research course by Roger D. Peng
+
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
 [Fitbit](http://www.fitbit.com), [Nike
